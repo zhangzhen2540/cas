@@ -1,0 +1,6 @@
+#redis
+redis_database_num=0
+hosts=172.10.0.96
+port=6389
+st_time=60000
+tgt_time=3600000
