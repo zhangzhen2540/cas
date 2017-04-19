@@ -1,7 +1,7 @@
 # cas 4.x
 
 # 介绍
-创建者： [andy](andy_chen314@163.com);
+创建者： Andy (andy_chen314@163.com);
 
 # 使用
 1、redis配置
