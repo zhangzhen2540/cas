@@ -1,6 +1,27 @@
-.idea/*
-.idea
-idea/*
-idea
 target/
+*/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
+*.ipr
+/idea
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/payment-model/src/main/resources/generatorConfig.xml
